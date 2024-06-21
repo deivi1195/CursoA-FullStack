@@ -1,0 +1,55 @@
+.left {
+    float: left;
+    width: 50%;
+    
+    background-color: aqua;
+}
+
+.right {
+    float: right;
+    width: 50%;
+    
+    background-color: goldenrod;
+}
+
+.container {
+    margin: 30vh auto;
+    border: 5px solid black;
+    width: 300px;
+    font-size: 30px;
+    color: black;
+    text-shadow: 1px 1px 0px white,
+              2px 2px 0px white;
+              
+}
+
+.caja {
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    text-align: center;
+}
+
+.caja-1 {
+    background-color: red;
+}
+
+.caja-2 {
+    background-color: blue;
+}
+
+.caja-3 {
+    background-color: green;
+}
+
+.caja-4 {
+    background-color: yellow;
+}
+
+.caja-5 {
+    background-color: purple;
+}
+
+.caja-6 {
+    background-color: orange;
+}
