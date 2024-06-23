@@ -1,15 +1,9 @@
-.left {
-    float: left;
-    width: 50%;
-    
-    background-color: aqua;
-}
-
-.right {
-    float: right;
-    width: 50%;
-    
-    background-color: goldenrod;
+html,
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: jetbrains mono, Helvetica, sans-serif;
 }
 
 .container {
@@ -21,6 +15,13 @@
     text-shadow: 1px 1px 0px white,
               2px 2px 0px white;
               
+}
+
+.cabecera {
+    background-color: black;
+    color: white;
+    padding-top: 2rem 0;
+    text-align: center;
 }
 
 .caja {
